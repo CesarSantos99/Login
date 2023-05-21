@@ -27,7 +27,6 @@
     width: 100%;
     max-width: 500px;
     min-height: 100vh;
-    background: #999;
 }
 
 .login-logo {
@@ -39,6 +38,32 @@
     color: var(--deep-grey);
     font-size: 1.5em;
 }
+
+.login-label {
+    display: block;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.input {
+    width: 100%;
+    background-color: var(--lisht-grey);
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    padding: 25px 10px 10px;
+    font-size: 0.9em;
+}
+
+
+
+
+
+
+
+
+
+
 
 
 
