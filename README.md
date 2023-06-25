@@ -1,12 +1,12 @@
 # Login
 
-##Tecnologias
+## Tecnologias
 
 *HTML<br>
 *CSS<br>
 *JavaScript
 
-##Sobre
+## Sobre
 
 Página de login Riot Games, onde o usuario se cadastra e tem uma imagem do lado do cadastro, tem a opção de fazer
 o seu login através do facebook, google e pela apple.
